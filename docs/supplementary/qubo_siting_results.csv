@@ -1,0 +1,3 @@
+case,qubo_variables,raw_candidate_sites,selected_bess_sites,selected_count,best_qubo_energy,mean_top_site_value,max_top_site_value
+ieee30,10,20,"[20, 19, 18]",3,-20.74376658925894,15.313361620392039,35.92843816066214
+ieee118,10,20,"[101, 83, 57]",3,-18.000009769962617,2.5362428206992466e-15,3.651400169878292e-15

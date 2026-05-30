@@ -1,0 +1,10 @@
+scenario,bus,ai_load_mw,type
+ai_data_center_50mw_bus_79,79,50.0,ai_load_growth
+ai_data_center_50mw_bus_11,11,50.0,ai_load_growth
+ai_data_center_50mw_bus_93,93,50.0,ai_load_growth
+ai_data_center_100mw_bus_79,79,100.0,ai_load_growth
+ai_data_center_100mw_bus_11,11,100.0,ai_load_growth
+ai_data_center_100mw_bus_93,93,100.0,ai_load_growth
+ai_data_center_250mw_bus_79,79,250.0,ai_load_growth
+ai_data_center_250mw_bus_11,11,250.0,ai_load_growth
+ai_data_center_250mw_bus_93,93,250.0,ai_load_growth

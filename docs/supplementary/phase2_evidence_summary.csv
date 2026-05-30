@@ -1,0 +1,10 @@
+evidence_area,result,source_file
+Dataset construction,2 benchmarks: IEEE30 and IEEE118,dataset_summary.csv
+AI load stress impact,Worst successful stress case: ai_data_center_250mw_bus_20 with max loading 634.31%,power_flow_stress_results.csv
+BESS siting benefit,BESS at bus 19 reduced congestion by 136.79 percentage points for ai_data_center_100mw_bus_19,bess_screening_results.csv
+Microgrid resilience benefit (ieee118),Resilience improved from 0.5833 to 0.9167; islanding feasibility improved from 0.3333 to 0.6667,bess_microgrid_resilience_results.csv
+Microgrid resilience benefit (ieee30),Resilience improved from 0.5833 to 0.9167; islanding feasibility improved from 0.3333 to 0.6667,bess_microgrid_resilience_results.csv
+QUBO formulation (ieee30),20 raw sites compressed to 10 QUBO variables; best energy -20.7438,qubo_siting_results.csv
+QUBO formulation (ieee118),20 raw sites compressed to 10 QUBO variables; best energy -18.0000,qubo_siting_results.csv
+Quantum resource plan (ieee30),"10 qubits, p=1 depth estimate 20, p=2 depth estimate 40, 1024 shots",qaoa_resource_estimate.csv
+Quantum resource plan (ieee118),"10 qubits, p=1 depth estimate 20, p=2 depth estimate 40, 1024 shots",qaoa_resource_estimate.csv

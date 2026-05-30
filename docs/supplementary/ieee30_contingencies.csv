@@ -1,0 +1,11 @@
+scenario,outaged_line,type
+n_minus_1_line_3,3,line_outage
+n_minus_1_line_25,25,line_outage
+n_minus_1_line_2,2,line_outage
+n_minus_1_line_22,22,line_outage
+n_minus_1_line_15,15,line_outage
+n_minus_1_line_35,35,line_outage
+n_minus_1_line_27,27,line_outage
+n_minus_1_line_40,40,line_outage
+n_minus_1_line_8,8,line_outage
+n_minus_1_line_31,31,line_outage

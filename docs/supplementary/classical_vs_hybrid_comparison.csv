@@ -1,0 +1,5 @@
+case,method,candidate_variables,selected_sites,mean_congestion_reduction,max_congestion_reduction,resilience_score,islanding_feasibility,notes
+ieee118,Greedy physical screening,20,"[101, 83, 15]",2.697430756126306e-15,1.7763568394002505e-14,0.9166666666666666,0.6666666666666666,Classical baseline using ranked congestion benefit
+ieee118,Hybrid GRID-Q Nexus QUBO/QAOA-ready,10,"[101, 83, 15]",2.697430756126306e-15,1.7763568394002505e-14,0.9166666666666666,0.6666666666666666,AI-compressed QUBO subproblem with quantum-ready resource plan
+ieee30,Greedy physical screening,20,"[19, 20, 18]",32.85974940982689,136.79358908234087,0.9166666666666666,0.6666666666666666,Classical baseline using ranked congestion benefit
+ieee30,Hybrid GRID-Q Nexus QUBO/QAOA-ready,10,"[19, 20, 18]",32.85974940982689,136.79358908234087,0.9166666666666666,0.6666666666666666,AI-compressed QUBO subproblem with quantum-ready resource plan

@@ -1,0 +1,10 @@
+Metric,Result
+Benchmark Networks,"IEEE30, IEEE118"
+AI Data Center Scenarios,"50 MW, 100 MW, 250 MW"
+N-1 Contingencies,10
+Candidate BESS Sites,20
+QUBO Variables,10
+Best Congestion Reduction,136.79
+Resilience Improvement,0.583 -> 0.917
+Islanding Feasibility Improvement,0.333 -> 0.667
+Recommended IEEE30 Sites,"[19, 20, 18]"
