@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: GRID-Q Nexus
+message: If you use this repository, please cite it using the metadata below.
+type: software
+authors:
+  - family-names: Kumar
+    given-names: Pawan J K
+repository-code: https://github.com/Pawan1225/GRID-Q-Nexus
+license: MIT
+version: 1.0.0
+date-released: 2026-05-30
